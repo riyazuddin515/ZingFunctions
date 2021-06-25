@@ -1,0 +1,214 @@
+{
+  "__collections__": {
+    "chats": {
+      "czx4FwEv4jcDLxrXJsx2X1FuoBr2fT9vo7fRxLOScRz9pHe84WY52zk1": {
+        "receiverUsername": "riyazuddin515",
+        "senderProfilePicUrl": "https://firebasestorage.googleapis.com/v0/b/zing515.appspot.com/o/img_avatar.png?alt=media&token=b40984fc-155d-4acc-b031-a38076a98628",
+        "receiverProfilePicUrl": "https://firebasestorage.googleapis.com/v0/b/zing515.appspot.com/o/profilePics%2Fczx4FwEv4jcDLxrXJsx2X1FuoBr2?alt=media&token=9dc71c71-ad32-452d-ac7e-24e0def470b7",
+        "senderName": "Mohammed fayazuddin",
+        "receiverName": "Riyazuddin Mohammad",
+        "senderUserName": "its_ayaz05",
+        "message": {
+          "message": "k",
+          "senderAndReceiverUid": [
+            "fT9vo7fRxLOScRz9pHe84WY52zk1",
+            "FZ5DZfjosYio0eE9XzVPX2LGeImD"
+          ],
+          "messageId": "9f86f1c5-f28a-4603-b0e2-31f0e4ef9e25",
+          "url": "",
+          "type": "TEXT",
+          "status": "SENT",
+          "date": 1622692304356
+        },
+        "__collections__": {
+          "messages": {
+            "0dd52303-c2d0-465a-8970-5cf51a917758": {
+              "status": "SEEN",
+              "url": "",
+              "type": "TEXT",
+              "message": "💩",
+              "senderAndReceiverUid": [
+                "fT9vo7fRxLOScRz9pHe84WY52zk1",
+                "FZ5DZfjosYio0eE9XzVPX2LGeImD"
+              ],
+              "messageId": "0dd52303-c2d0-465a-8970-5cf51a917758",
+              "date": 1622691923538              
+            },
+            "116ac599-2c34-4aa6-8503-e6ad41e7554d": {
+              "message": "💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩",
+              "status": "SEEN",
+              "messageId": "116ac599-2c34-4aa6-8503-e6ad41e7554d",
+              "senderAndReceiverUid": [
+                "FZ5DZfjosYio0eE9XzVPX2LGeImD",
+                "fT9vo7fRxLOScRz9pHe84WY52zk1"
+              ],
+              "date": 1622687869910,
+              "url": "",
+              "type": "TEXT"
+              
+            },
+            "43f8898b-27ba-4739-8309-36799f90a1ab": {
+              "status": "SEEN",
+              "senderAndReceiverUid": [
+                "fT9vo7fRxLOScRz9pHe84WY52zk1",
+                "FZ5DZfjosYio0eE9XzVPX2LGeImD"
+              ],
+              "message": "💩💩💩",
+              "date": 1622687826954,
+              "type": "TEXT",
+              "url": "",
+              "messageId": "43f8898b-27ba-4739-8309-36799f90a1ab"
+              
+            },
+            "7cff0c5f-4096-4a82-8718-e154d367b2dd": {
+              "status": "SEEN",
+              "url": "",
+              "date": 1622692274809,
+              "senderAndReceiverUid": [
+                "FZ5DZfjosYio0eE9XzVPX2LGeImD",
+                "fT9vo7fRxLOScRz9pHe84WY52zk1"
+              ],
+              "message": "o",
+              "type": "TEXT",
+              "messageId": "7cff0c5f-4096-4a82-8718-e154d367b2dd"
+              
+            },
+            "9f86f1c5-f28a-4603-b0e2-31f0e4ef9e25": {
+              "messageId": "9f86f1c5-f28a-4603-b0e2-31f0e4ef9e25",
+              "message": "k",
+              "senderAndReceiverUid": [
+                "fT9vo7fRxLOScRz9pHe84WY52zk1",
+                "FZ5DZfjosYio0eE9XzVPX2LGeImD"
+              ],
+              "type": "TEXT",
+              "status": "DELIVERED",
+              "url": "",
+              "date": 1622692304356
+              
+            }
+          }
+        }
+      }
+    },
+    "followers": {
+      "FZ5DZfjosYio0eE9XzVPX2LGeImD": {
+        "uid": "",
+        "followers": [
+          "fT9vo7fRxLOScRz9pHe84WY52zk1"
+        ]
+        
+      },
+      "fT9vo7fRxLOScRz9pHe84WY52zk1": {
+        "uid": "",
+        "followers": [
+          "FZ5DZfjosYio0eE9XzVPX2LGeImD"
+        ]
+        
+      },
+      "jVMuQcw4kZXWY0mEoqpn56oU9822": {
+        "uid": "",
+        "followers": []
+        
+      }
+    },
+    "following": {
+      "FZ5DZfjosYio0eE9XzVPX2LGeImD": {
+        "following": [
+          "fT9vo7fRxLOScRz9pHe84WY52zk1"
+        ],
+        "uid": ""
+        
+      },
+      "fT9vo7fRxLOScRz9pHe84WY52zk1": {
+        "following": [
+          "FZ5DZfjosYio0eE9XzVPX2LGeImD"
+        ],
+        "uid": ""
+        
+      },
+      "jVMuQcw4kZXWY0mEoqpn56oU9822": {
+        "following": [],
+        "uid": ""
+        
+      }
+    },
+    "postLikes": {
+      "66e2f79e-3ba7-4d57-b9c2-63cf9f061671": {
+        "likedBy": []
+        
+      },
+      "ca98e2b6-c84e-479e-ab34-070ce17d3f52": {
+        "likedBy": []
+        
+      }
+    },
+    "posts": {
+      "66e2f79e-3ba7-4d57-b9c2-63cf9f061671": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/zing515.appspot.com/o/posts%2FfT9vo7fRxLOScRz9pHe84WY52zk1%2F66e2f79e-3ba7-4d57-b9c2-63cf9f061671?alt=media&token=40d27113-45ba-47e4-94e8-226b8beeb04d",
+        "caption": "",
+        "date": 1622688401040,
+        "postId": "66e2f79e-3ba7-4d57-b9c2-63cf9f061671",
+        "likeCount": 0,
+        "postedBy": "fT9vo7fRxLOScRz9pHe84WY52zk1"
+        
+      },
+      "ca98e2b6-c84e-479e-ab34-070ce17d3f52": {
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/zing515.appspot.com/o/posts%2Fczx4FwEv4jcDLxrXJsx2X1FuoBr2%2Fca98e2b6-c84e-479e-ab34-070ce17d3f52?alt=media&token=6125e268-ab1b-4ab9-b03e-3f9999a3172a",
+        "likeCount": 0,
+        "caption": "Black And White",
+        "postId": "ca98e2b6-c84e-479e-ab34-070ce17d3f52",
+        "date": 1622655597020,
+        "postedBy": "FZ5DZfjosYio0eE9XzVPX2LGeImD"
+      }
+    },
+    "users": {
+      "FZ5DZfjosYio0eE9XzVPX2LGeImD": {
+        "followersCount": 1,
+        "username": "riyazuddin515",
+        "profilePicUrl": "https://firebasestorage.googleapis.com/v0/b/zing515.appspot.com/o/profilePics%2Fczx4FwEv4jcDLxrXJsx2X1FuoBr2?alt=media&token=9dc71c71-ad32-452d-ac7e-24e0def470b7",
+        "followingCount": 1,
+        "uid": "FZ5DZfjosYio0eE9XzVPX2LGeImD",
+        "postCount": 1,
+        "name": "Riyazuddin Mohammad",
+        "bio": "Always with you ☺️"        
+      },
+      "fT9vo7fRxLOScRz9pHe84WY52zk1": {
+        "bio": "I'm on Zing now",
+        "username": "its_ayaz05",
+        "postCount": 1,
+        "name": "Mohammed fayazuddin",
+        "followingCount": 1,
+        "profilePicUrl": "https://firebasestorage.googleapis.com/v0/b/zing515.appspot.com/o/img_avatar.png?alt=media&token=b40984fc-155d-4acc-b031-a38076a98628",
+        "uid": "fT9vo7fRxLOScRz9pHe84WY52zk1",
+        "followersCount": 1        
+      },
+      "jVMuQcw4kZXWY0mEoqpn56oU9822": {
+        "bio": "I'm on Zing now",
+        "name": "Rajeev Avula",
+        "followingCount": 0,
+        "followersCount": 0,
+        "postCount": 0,
+        "profilePicUrl": "https://firebasestorage.googleapis.com/v0/b/zing515.appspot.com/o/img_avatar.png?alt=media&token=b40984fc-155d-4acc-b031-a38076a98628",
+        "username": "rajeev",
+        "uid": "jVMuQcw4kZXWY0mEoqpn56oU9822"        
+      }
+    },
+    "usersStat": {
+      "FZ5DZfjosYio0eE9XzVPX2LGeImD": {
+        "token": "eBJ1OAp8Tsef5IJIX-0gYW:APA91bEmT3sbkcjQYRbFDn2AEElGavkRgbGXn-3_sur0061qQb_S2n_-1gu_b4661fMqiTBvO-BqEBSQsAuwTnkV2VMmNstgrUd9qwmch0_qEMwUXpDuKiCGzfirY7_wKkSmqAwgptFa",
+        "lastSeen": 1622692317271,
+        "state": "Offline"        
+      },
+      "fT9vo7fRxLOScRz9pHe84WY52zk1": {
+        "lastSeen": 1622693542544,
+        "state": "Offline",
+        "token": "f5kcn1pzTUGK99GCa30gmt:APA91bHweDXg6i3cbpYNUM1P1lb9_h-xauMJ20RmZeqgEMGJf5zI9dWFdZz84VxZClHGMWRp5qRmUFbhIFkv3-ZeFOa8Fqh2wbGPaQEZFS7HoP4F-IDbnR-UeEOSI1CyNvp-cB22J4hc"
+      },
+      "jVMuQcw4kZXWY0mEoqpn56oU9822": {
+        "state": "Offline",
+        "lastSeen": 1622687027938,
+        "token": "cRxcNUbKQwOI6im4VUCjKt:APA91bFZNx1V6vvMg8Dgs0TdaLbVmuUWYUBv8I6ylMn9AeNqE_5AXyLwxXOyvS-t5l_MVI3hR_dY5DPFUOnQ86vaW1-ZpG9Y-NTEfGEYiEaS3BvHjBE8gCoYs5ICv_indFNBq5gPdesU" 
+      }
+    }
+  }
+}
