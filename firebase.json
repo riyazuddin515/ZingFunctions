@@ -1,24 +1,40 @@
 {
   "emulators": {
-    "functions": {
-      "port": 1234,
+    "auth": {
+      "port": 1111,
       "host": "0.0.0.0"
     },
     "firestore": {
-      "port": 1243,
+      "port": 2221,
+      "host": "0.0.0.0"
+    },
+    "database": {
+      "port": 3331,
+      "host": "0.0.0.0"
+    },
+    "storage": {
+      "host": "0.0.0.0",
+      "port": 5555
+    },
+    "functions": {
+      "port": 4444,
       "host": "0.0.0.0"
     },
     "ui": {
       "enabled": true,
       "host": "0.0.0.0"
-    },
-    "auth": {
-      "port": 1324,
-      "host": "0.0.0.0"
-    },
-    "database": {
-      "port": 1342,
-      "host": "0.0.0.0"
     }
+  },
+  "functions": {
+    "source": "functions"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "remoteconfig": {
+    "template": "remoteconfig.template.json"
   }
 }
